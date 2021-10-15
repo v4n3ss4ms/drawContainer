@@ -1,0 +1,12 @@
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    border: 1px solid $c-black;
+    align-content: start;
+}
+
+.alert {
+    font-family: $f-primary;
+    margin-top: 15px;
+    color: $c-alert;
+}
